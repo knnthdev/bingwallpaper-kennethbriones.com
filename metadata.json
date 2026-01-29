@@ -1,0 +1,11 @@
+{
+	"uuid": "bingwallpaper@kennethbriones.com",
+	"name": "Bing Wallpaper",
+	"description": "Background automizer provided by Bing",
+	"shell-version": [
+    "40",
+    "41",
+    "42"
+	],
+	"url": "https://kennethbriones.com/"
+}
